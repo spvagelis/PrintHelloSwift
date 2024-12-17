@@ -1,0 +1,12 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/vagelisspirou75/Library/Developer/Xcode/DerivedData/PrintHelloSwift-bkgmhsrfbqzcepgkhmeputyqndfk/Build/Intermediates.noindex/ArchiveIntermediates/PrintHelloSwift/InstallationBuildProductsLocation/Library/Frameworks/PrintHelloSwift.framework/PrintHelloSwift'
+relocations:
+  - { offsetInCU: 0x34, offset: 0x2E66D, size: 0x8, addend: 0x0, symName: _PrintHelloSwiftVersionString, symObjAddr: 0x0, symBinAddr: 0x4EF8, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x2E6A2, size: 0x8, addend: 0x0, symName: _PrintHelloSwiftVersionNumber, symObjAddr: 0x38, symBinAddr: 0x4F30, symSize: 0x0 }
+  - { offsetInCU: 0x27, offset: 0x2E6DF, size: 0x8, addend: 0x0, symName: '_$s15PrintHelloSwiftAAC03sayB0SSyFZ', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x1C }
+  - { offsetInCU: 0x8F, offset: 0x2E747, size: 0x8, addend: 0x0, symName: '_$s15PrintHelloSwiftAACMa', symObjAddr: 0x34, symBinAddr: 0x4034, symSize: 0x20 }
+  - { offsetInCU: 0x125, offset: 0x2E7DD, size: 0x8, addend: 0x0, symName: '_$s15PrintHelloSwiftAAC03sayB0SSyFZ', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x1C }
+  - { offsetInCU: 0x14C, offset: 0x2E804, size: 0x8, addend: 0x0, symName: '_$s15PrintHelloSwiftAACfd', symObjAddr: 0x1C, symBinAddr: 0x401C, symSize: 0x8 }
+  - { offsetInCU: 0x177, offset: 0x2E82F, size: 0x8, addend: 0x0, symName: '_$s15PrintHelloSwiftAACfD', symObjAddr: 0x24, symBinAddr: 0x4024, symSize: 0x10 }
+...

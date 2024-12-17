@@ -1,0 +1,79 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PrintHelloSwift",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "PrintHelloSwift",
+        "printedName": "PrintHelloSwift",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "sayHello",
+            "printedName": "sayHello()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15PrintHelloSwiftAAC03sayB0SSyFZ",
+            "mangledName": "$s15PrintHelloSwiftAAC03sayB0SSyFZ",
+            "moduleName": "PrintHelloSwift",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "PrintHelloSwift",
+                "printedName": "PrintHelloSwift.PrintHelloSwift",
+                "usr": "s:15PrintHelloSwiftAAC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:15PrintHelloSwiftAACABycfc",
+            "mangledName": "$s15PrintHelloSwiftAACABycfc",
+            "moduleName": "PrintHelloSwift",
+            "implicit": true,
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:15PrintHelloSwiftAAC",
+        "mangledName": "$s15PrintHelloSwiftAAC",
+        "moduleName": "PrintHelloSwift",
+        "isOpen": true,
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": []
+}
